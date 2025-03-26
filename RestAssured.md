@@ -1,6 +1,6 @@
  ## Table of Contents
 1. [Status code and body validatio](#1-status-code-body)
-2. [Common Selenium Exceptions](#2-common-selenium-exceptions)
+2. [JSON Key-Value Pair Validation](#2-JSON-Key-Value-Pair-Validation)
 
 ### 1 **Status code and body validation**
 
