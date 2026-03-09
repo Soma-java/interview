@@ -165,18 +165,8 @@ Input:
 Output:
 {1, 3, 12, 0, 0}
 ```
-## 15. Reverse a Number
-
-### Code:
-Input:
-1234
-
-Output:
-4321
-```
 ## 16. make first and last lettter as uppercase
-
-### Code:
+```
 Input:
 String name=my name is yourname
 
